@@ -3,9 +3,9 @@ import {ArrowUpRight,Copy,Check,Menu,X} from 'lucide-react';
 import {createRoot} from 'react-dom/client';
 import './styles.css';
 const PLAY_STORE_URL='https://play.google.com/store/apps/details?id=mk.triglavzivot.app&hl=en_US&pli=1';
-const TOKEN_ADDRESS='0x4d066AB4D924b7b3D01c6EcbFC142efe33AEb7FA';
+const TOKEN_ADDRESS='';
 const X_URL='https://x.com/';
-const BUY_URL='https://robin.etherscan.io/token/0x4d066AB4D924b7b3D01c6EcbFC142efe33AEb7FA';
+const BUY_URL='https://www.ponsfamily.com/launchpad/';
 const HERO_ASSETS=['n4nfp46kp.png','5oedq79cd.png','eak19hxes.png','dvc4f6g5m.png','lb6onlop6.png'];
 const EXPERIENCE_ASSETS=['rsmr4stjz.png','k97coru19.png','q2v8m6x4c.png'];
 
