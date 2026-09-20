@@ -3,9 +3,9 @@ import {ArrowUpRight,Copy,Check,Menu,X} from 'lucide-react';
 import {createRoot} from 'react-dom/client';
 import './styles.css';
 const PLAY_STORE_URL='https://play.google.com/store/apps/details?id=mk.triglavzivot.app&hl=en_US&pli=1';
-const TOKEN_ADDRESS='';
+const TOKEN_ADDRESS='0x753a419b1815d54591fa4e111c16bef1b71ca814';
 const X_URL='https://x.com/Triglavcard';
-const BUY_URL='';
+const BUY_URL='https://www.ponsfamily.com/launchpad/0x753a419b1815d54591fa4e111c16bef1b71ca814';
 const HERO_ASSETS=['n4nfp46kp.png','5oedq79cd.png','eak19hxes.png','dvc4f6g5m.png','lb6onlop6.png'];
 const EXPERIENCE_ASSETS=['rsmr4stjz.png','k97coru19.png','q2v8m6x4c.png'];
 
